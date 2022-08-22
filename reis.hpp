@@ -6,7 +6,8 @@
 Klasse Reis maakt objecten van reizen tussen twee punten.
 Atributen =
 plekken : een lijst van plekken waar de reis langs gaat, op volgorde. Afgedrukt in Char type.
-totaleDuur : geeft aan hoeveel de reis kost. in int type en geeft geen kilomters of prijs aan maar een relatieve eenheid die berekent wordt bij stappen.
+totaleDuur : geeft aan hoeveel de reis kost. in int type en geeft geen kilomters of prijs aan
+maar een relatieve eenheid die berekent wordt bij stappen.
 */
 class Reis
 {
